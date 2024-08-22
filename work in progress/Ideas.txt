@@ -1,0 +1,15 @@
+1.main page sto ke sostoi od:
+-Moving nav bar
+-2 logo
+
+
+main area:
+-Details of services that are preformed
+-clickable pics as links to redirect the user to a new site
+-have at least 5 different services to look more profecional: (Paint and sticker job, health diagnosis ,working with hybrids or fully electric cars, interior design, and service for any auomobile
+
+Aside section
+-fake info about the shop and when it started 
+
+Footer:
+-links for all social media platforms, contacts of 5 made up places of the same shop with locations and email adress 
